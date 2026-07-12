@@ -1,5 +1,10 @@
 # Excel Sales Performance Dashboard
 
+## Dashboard Preview
+
+![Dashboard Preview](![Uploading Dashboard Screenshot.png…]()
+)
+
 ## Project Overview
 
 This project is an interactive **Sales Performance Dashboard** built in Microsoft Excel as part of my Data Analytics learning journey. The dashboard provides valuable business insights by analyzing sales performance across different categories, states, customers, and time periods.
