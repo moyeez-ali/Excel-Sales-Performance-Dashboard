@@ -2,8 +2,6 @@
 
 An interactive Excel dashboard analyzing 9,994 sales orders (2014–2017) to uncover top-performing categories, states, and customers — built with PivotTables, PivotCharts, and slicers.
 
-![Dashboard Preview](images/dashboard_screenshot.png)
-
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Business Problem](#business-problem)
